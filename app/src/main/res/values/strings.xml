@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebViewGames</string>
+
+    <string name="first_item">Simple</string>
+    <string name="second_item">Chrome</string>
+</resources>
